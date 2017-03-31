@@ -1,0 +1,121 @@
+LevelName	NavigationMeshLoad	Time(s)	#Initial Polygons	#Obstacles	#Final Polygons	Search Type	Time(s)	#Nodes Visited	Max Nodes in Queue	Path Length (Polygons)	Path Cost(units)
+Xanadu	load Navigation Mesh	0.09891319	7000	430	1151	A*	0.06741667	1128	39	237	3163.906	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.1015141	800	19	67	A*	0.00285697	64	16	14	62.74416	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.01252508	800	19	67	Dynamic Weighted A*	0.001832008	25	17	13	62.91397	
+PlainSceneWithtwoCubes2	load Navigation Mesh	0.03994703	212	8	25	A*	0.001844168	19	5	8	29.2007	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.09109402	800	19	67	A*	0.002733946	64	16	14	62.74416	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.01519299	800	19	67	Dynamic Weighted BDBOP	0.002010345	19	11	17	64.55193	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1618376	44800	803	2819	A*	0.1333861	1599	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.09906006	44800	803	2819	Dynamic Weighted BDBOP	0.002766132	354	106	78	690.8974	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1710815	44800	803	2819	A*	0.1375809	1599	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1006775	44800	803	2819	Dynamic Weighted BDBOP	0.002681732	354	106	78	690.8974	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.113102	44800	803	2819	A* Optimal	0.005703926	1601	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1194696	44800	803	2819	Bi-Directional	0.08546734	1372	242	79	555.7142	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1115875	44800	803	2819	FringeSearch	0.5276718	37898	275	78	595.7099	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.09804821	44800	803	2819	Beam Search	0.005514145	1601	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.104805	44800	803	2819	Dynamic Weighted BDOP	0.002638817	354	123	78	690.8974	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.07051802	800	19	67	A*	0.002712011	64	16	14	62.74416	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.01233101	800	19	67	Dynamic Weighted BDBOP	0.001422882	19	11	17	64.55193	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.06983209	1800	36	119	A*	0.002081156	70	21	18	86.29044	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	A*	0.001068115	1	1	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	A* Optimal	0.001525879	1	1	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Bi-Directional	0.00100708	1	0	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Bi-Directional Optimal	0.0009155273	1	0	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	FringeSearch	0.001373291	1	0	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Beam Search	0.0009460449	1	1	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Dynamic Weighted A*	0.001251221	1	1	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Dynamic Weighted BDBOP	0.0009765625	1	0	1	0	
+PlainScene	load Navigation Mesh	0.07330322	212	0	1	Dynamic Weighted BDOP	0.000793457	1	0	1	0	
+PlainScene	load Navigation Mesh	0.06534505	212	0	1	A*	0.00116992	1	1	1	0	
+PlainScene	load Navigation Mesh	0.01067638	212	0	1	Dynamic Weighted BDBOP	0.0008530617	1	0	1	0	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1649251	44800	803	2819	A*	0.1386228	1599	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1005859	44800	803	2819	Dynamic Weighted BDBOP	0.002826691	354	106	78	690.8974	
+Xanadu	load Navigation Mesh	0.105886	7000	430	1151	A*	0.06048393	1128	39	237	3163.906	
+Xanadu	load Navigation Mesh	0.05196476	7000	430	1151	Dynamic Weighted BDBOP	0.003880501	1128	47	324	3502.489	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.06377602	800	19	67	A*	0.002729893	64	16	14	62.74416	
+MultiPlaneSceneWithCubes	load Navigation Mesh	0.01717186	800	19	67	Dynamic Weighted BDBOP	0.002475262	19	11	17	64.55193	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.017591	1800	36	119	A*	0.002010822	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02640438	1800	36	119	Dynamic Weighted BDBOP	0.001476765	16	33	15	93.95207	
+PlainScene	load Navigation Mesh	0.4055481	212	0	1	A*	0.00100708	1	1	1	0	
+PlainSceneWithtwoCubes2	load Navigation Mesh	0.3864613	212	8	25	A*	0.001567841	19	5	8	29.2007	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01557541	1800	36	119	A*	0.002069473	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01431608	1800	36	119	Bi-Directional Optimal	0.001651287	53	35	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.0182333	1800	36	119	Dynamic Weighted A*	0.001822948	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01737213	1800	36	119	Dynamic Weighted BDBOP	0.001464844	16	33	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01382828	1800	36	119	FringeSearch	0.001811981	102	34	15	88.67395	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.167779	44800	803	2819	A*	0.1326551	1599	134	82	554.954	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.07643986	1800	36	119	A*	0.002942085	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01370621	1800	36	119	A*	0.002160072	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01356697	1800	36	119	A*	0.002248049	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02080822	1800	36	119	A*	0.002308846	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.014539	1800	36	119	A*	0.003158092	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02156019	1800	36	119	A* Optimal	0.002621174	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.013448	1800	36	119	A*	0.002305984	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01800823	1800	36	119	A*	0.003057957	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01412702	1800	36	119	A*	0.003232956	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02717972	1800	36	119	Dynamic Weighted BDBOP	0.001519203	16	33	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01407814	1800	36	119	Dynamic Weighted BDBOP	0.001457214	16	33	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01347995	1800	36	119	A*	0.002048016	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01363611	1800	36	119	Dynamic Weighted BDBOP	0.001470089	16	33	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01340485	1800	36	119	FringeSearch	0.001735687	102	34	15	88.67395	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01439238	1800	36	119	A* Optimal	0.001780987	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02082682	1800	36	119	Dynamic Weighted BDBOP	0.001456261	16	33	15	93.95207	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.2259502	44800	803	2819	A* Optimal	0.007270813	1601	134	82	554.954	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1023641	44800	803	2819	Dynamic Weighted BDBOP	0.003164291	354	106	78	690.8974	
+Xanadu	load Navigation Mesh	0.107532	7000	430	1151	A* Optimal	0.003737926	1150	39	237	3163.906	
+Xanadu	load Navigation Mesh	0.05098581	7000	430	1151	Dynamic Weighted BDBOP	0.003781796	1128	47	324	3502.489	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.06334019	1800	36	119	A* Optimal	0.001860142	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01469994	1800	36	119	A* Optimal	0.03459191	70	21	18	86.29044	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1447277	44800	803	2819	Dynamic Weighted BDBOP	0.002861023	268	200	88	796.5035	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.09602594	44800	803	2819	Dynamic Weighted BDBOP	0.003843307	409	200	88	796.5035	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1000729	44800	803	2819	Dynamic Weighted BDBOP	0.00288868	354	106	78	690.8974	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1024032	44800	803	2819	Dynamic Weighted BDBOP	0.002983093	354	106	78	690.8974	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.1015339	44800	803	2819	Dynamic Weighted BDBOP	0.002806664	353	100	78	690.8974	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01580715	1800	36	119	A*	0.0023489	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01796222	1800	36	119	A*	0.002018929	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01475692	1800	36	119	A*	0.002027035	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01413536	1800	36	119	Dynamic Weighted BDBOP	0.001432896	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.4948797	1800	36	119	Dynamic Weighted BDBOP	0.001398087	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.05129766	1800	36	119	Dynamic Weighted BDBOP	0.01998091	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01507235	1800	36	119	Dynamic Weighted BDBOP	0.02210712	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01441002	1800	36	119	A*	0.002151012	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01435709	1800	36	119	Dynamic Weighted BDBOP	0.00162077	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02834177	1800	36	119	A*	0.002403259	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.07600999	1800	36	119	A*	0.0007562637	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5938058	1800	36	119	A*	0.0006299019	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.05730391	1800	36	119	A*	0.0006599426	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.565485	1800	36	119	A* Optimal	0.0008268356	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5785079	1800	36	119	A*	0.0006332397	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.02922869	1800	36	119	A* Optimal	0.001241684	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.567522	1800	36	119	A*	0.0007600784	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5102429	1800	36	119	A*	0.0005888939	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.538579	1800	36	119	A*	0.0006046295	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5596232	1800	36	119	A*	0.0005946159	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5503259	1800	36	119	A*	0.0006313324	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5302231	1800	36	119	A*	0.0007209778	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.513876	1800	36	119	A*	0.0006103516	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5272169	1800	36	119	A*	0.0006048679	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5167758	1800	36	119	A*	0.0005800724	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5654888	1800	36	119	A*	0.0005979538	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5936053	1800	36	119	A*	0.00060606	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.6042671	1800	36	119	A*	0.0005931854	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.57447	1800	36	119	A*	0.0006117821	0	1	0	0	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.546761	1800	36	119	A*	0.00198698	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5438712	1800	36	119	A*	0.001984835	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5513659	1800	36	119	A*	0.002009869	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5858788	1800	36	119	A*	0.007619381	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01432109	1800	36	119	A*	0.002064943	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.63936	1800	36	119	A*	0.00235033	70	21	18	86.29044	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.4329224	44800	803	2819	A*	0.001266479	0	1	0	0	
+HugePlaneWithRandomCubes1	load Navigation Mesh	0.0978241	44800	803	2819	A*	0.0007171631	0	1	0	0	
+HugePlaneWithRandomCubes1	build Navigation Mesh	207.0272	44800	803	2819	A*	0.1569519	1599	134	82	554.954	
+TryAnotherHuge	build Navigation Mesh	2309.747	400	3170	8173	A*	3.106689	7957	234	190	4004.154	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.6749277	1800	36	119	A*	0.002597332	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.6362972	1800	36	119	A*	0.002328873	70	21	18	86.29044	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.611402	1800	36	119	A*	0.002206326	70	21	18	86.29044	
+HugePlaneWithRandomCubes1	build Navigation Mesh	205.8374	44800	803	2819	A*	0.1394806	1599	134	82	554.954	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5486994	1800	36	119	Dynamic Weighted BDBOP	0.001283646	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.0142622	1800	36	119	Dynamic Weighted BDBOP	0.001215935	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01461458	1800	36	119	Dynamic Weighted BDBOP	0.001245022	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	load Navigation Mesh	0.01345062	1800	36	119	Dynamic Weighted BDBOP	0.002630234	15	28	15	93.95207	
+MultipPlaneSceneWithRandomCubes	build Navigation Mesh	0.5296621	1800	36	119	Dynamic Weighted BDBOP	0.003463745	15	28	15	93.95207	
